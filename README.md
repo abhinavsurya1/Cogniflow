@@ -29,3 +29,27 @@ npm install
 
 # Step 4: Start the development server
 npm run dev
+
+🛠️ Built With
+
+Vite – Lightning-fast frontend build tool
+React – UI library for building interactive interfaces
+TypeScript – Typed JavaScript for scalable development
+Tailwind CSS – Utility-first CSS framework
+Shadcn UI – Beautifully designed React components
+
+📁 Folder Structure
+
+Cogniflow/
+├── public/               # Static assets
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── pages/            # Page-level components
+│   ├── styles/           # Global and module styles
+│   ├── App.tsx           # Main app component
+│   └── main.tsx          # Entry point
+├── .gitignore
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
